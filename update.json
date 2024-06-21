@@ -1,0 +1,6 @@
+{
+  "version": "Vx.1.1 - Dolby.Ver", 
+  "versionCode": "202501", 
+  "zipUrl": "https://your-server.com/path-to-your-module.zip", 
+  "changelog": "https://raw.githubusercontent.com/HuberHaYu/UpdateJ/main/changelog_1.txt"
+}
