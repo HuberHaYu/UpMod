@@ -1,6 +1,6 @@
 {
-  "version": "Vx.1 - Dolby.Ver", 
-  "versionCode": "2025", 
-  "zipUrl": "https://your-server.com/path-to-your-module.zip", 
+  "version": "https://huberhayu.github.io/UpMod/version.txt", 
+  "versionCode": "https://huberhayu.github.io/UpMod/vercode.txt", 
+  "zipUrl": "", 
   "changelog": "https://huberhayu.github.io/UpMod/changelog.txt"
 }
