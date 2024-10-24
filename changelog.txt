@@ -1,5 +1,11 @@
-## v1.2 Update (New) 
-## CN： 
-### 新增全新虚拟低频，大幅度提升扬声器低频响度和饱满度！ 
-## EN： 
-### New "Virtual Bass Method", improve speaker LF fullness!
+## v1.2 Update (重要/Essential) 
+## CN
+### 低频算法修复  
+### 允许不支持的机型、品牌进行强制的杜比全景声修改及安装（无风险）  
+### 修复安装时的脚本错误  
+### 更改校验规则  
+## EN  
+### Bass Method fix  
+### Allow unsupported devices & brands to force Dolby Atmos modification and installation (risk-free)  
+### Fix script errors during installation  
+### Modify verification rules  
