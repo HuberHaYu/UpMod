@@ -1,11 +1,9 @@
-## v1.2 Update (重要/Essential) 
+## v2.0 Update (重要/Essential) 
+## 重启设备后请前往系统控制中心添加磁贴开关
+## After restarting the device, go to the System Control Center to add the Tile Switch.  
 ## CN
-### 低频算法修复  
-### 允许不支持的机型、品牌进行强制的杜比全景声修改及安装（无风险）  
-### 修复安装时的脚本错误  
-### 更改校验规则  
+### 新增HSX音频管理服务  
+### 新增HSX音频增强（需手动开启磁贴开关）
 ## EN  
-### Bass Method fix  
-### Allow unsupported devices & brands to force Dolby Atmos modification and installation (risk-free)  
-### Fix script errors during installation  
-### Modify verification rules  
+### New - HSX AudioManager Device
+### New - HSX AudioBoost (Need to turn on the tile switch)  
