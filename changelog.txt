@@ -3,7 +3,9 @@
 ## After restarting the device, go to the System Control Center to add the Tile Switch.  
 ## CN
 ### 新增HSX音频管理服务  
-### 新增HSX音频增强（需手动开启磁贴开关）
+### 新增HSX音频增强（需手动开启磁贴开关）  
+### 新增对Hyper OS2系统的支持  
 ## EN  
 ### New - HSX AudioManager Device
 ### New - HSX AudioBoost (Need to turn on the tile switch)  
+### HyperOS2.0 System Support
